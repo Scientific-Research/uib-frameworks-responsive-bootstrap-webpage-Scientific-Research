@@ -1,0 +1,23 @@
+{
+  "name": "uib-frameworks-responsive-bootstrap-webpage-Scientific-Research",
+  "version": "1.0.0",
+  "description": "Create the webpage shown below in the reference image using **only** Bootstrap - no CSS should be necessary.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FBW-WD-22-D03-22/uib-frameworks-responsive-bootstrap-webpage-Scientific-Research.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FBW-WD-22-D03-22/uib-frameworks-responsive-bootstrap-webpage-Scientific-Research/issues"
+  },
+  "homepage": "https://github.com/FBW-WD-22-D03-22/uib-frameworks-responsive-bootstrap-webpage-Scientific-Research#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
